@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-	<project name="FireLord1/android_device_motorola_osprey"      	        path="device/motorola/osprey"			remote="github" revision="xosp-mm" />
-	<project name="FireLord1/android_device_motorola_msm8916-common" 	        path="device/motorola/msm8916-common" 		remote="github" revision="xosp-mm" />
+	<project name="FireLord1/android_device_motorola_osprey"      	        path="device/motorola/osprey"			remote="github" revision="cm-13.0" />
+	<project name="FireLord1/android_device_motorola_msm8916-common" 	path="device/motorola/msm8916-common" 		remote="github" revision="cm-13.0" />
 	<project name="FireLord1/android_vendor_motorola_msm8916-common"        path="vendor/motorola/msm8916-common" 		remote="github" revision="cm-13.0" />
         <project name="FireLord1/android_vendor_motorola_osprey"               	path="vendor/motorola/osprey" 			remote="github" revision="cm-13.0" />
 	<project name="CyanogendMod/android_kernel_motorola_msm8916" 		path="kernel/motorola/msm8916" 			remote="github" revision="cm-13.0" />
